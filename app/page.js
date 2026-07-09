@@ -111,7 +111,6 @@ export default function Home() {
             </button>
           ))}
         </div>
-        <button type="button" className="smallBlueBtn" onClick={() => setSelectedImage(gallery[0])}><i className="fa-solid fa-magnifying-glass" /> Ver galería completa</button>
       </section>
 
       <section className="infoCards">
